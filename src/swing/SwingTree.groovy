@@ -1,3 +1,5 @@
+package swing
+
 import java.awt.FlowLayout
 import java.awt.GridLayout
 import javax.swing.*
